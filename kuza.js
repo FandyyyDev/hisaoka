@@ -1016,7 +1016,7 @@ case 'sewabot':
 - *13 Minggu :* _32.501_
 - *17 Minggu :* _36.001_
 
-Jika minat silakan hubungi owner :),
+Jika minat silakan hubungi owner :)`,
  sections: [
                      {
                       "title": `ListButMessage`,
